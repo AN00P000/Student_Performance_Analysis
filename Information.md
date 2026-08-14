@@ -4,3 +4,8 @@ Technologies used:
 -Python
 -GoogleColab
 -Skicit Learn
+-TensorFLow
+
+Datasets:
+Training - https://www.kaggle.com/datasets/haseebindata/student-performance-predictions
+Testing - User input
